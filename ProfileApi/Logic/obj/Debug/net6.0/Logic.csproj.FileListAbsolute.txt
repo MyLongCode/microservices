@@ -1,0 +1,17 @@
+C:\Users\user\OneDrive\Desktop\Microservices on ASP\ProfileApi\Logic\obj\Debug\net6.0\Logic.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\Microservices on ASP\ProfileApi\Logic\obj\Debug\net6.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\Microservices on ASP\ProfileApi\Logic\obj\Debug\net6.0\Logic.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\Microservices on ASP\ProfileApi\Logic\obj\Debug\net6.0\Logic.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Microservices on ASP\ProfileApi\Logic\obj\Debug\net6.0\Logic.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Microservices on ASP\ProfileApi\Logic\bin\Debug\net6.0\Logic.deps.json
+C:\Users\user\OneDrive\Desktop\Microservices on ASP\ProfileApi\Logic\bin\Debug\net6.0\Logic.dll
+C:\Users\user\OneDrive\Desktop\Microservices on ASP\ProfileApi\Logic\bin\Debug\net6.0\Logic.pdb
+C:\Users\user\OneDrive\Desktop\Microservices on ASP\ProfileApi\Logic\bin\Debug\net6.0\Dal.dll
+C:\Users\user\OneDrive\Desktop\Microservices on ASP\ProfileApi\Logic\bin\Debug\net6.0\ExampleCore.dll
+C:\Users\user\OneDrive\Desktop\Microservices on ASP\ProfileApi\Logic\bin\Debug\net6.0\Dal.pdb
+C:\Users\user\OneDrive\Desktop\Microservices on ASP\ProfileApi\Logic\bin\Debug\net6.0\ExampleCore.pdb
+C:\Users\user\OneDrive\Desktop\Microservices on ASP\ProfileApi\Logic\obj\Debug\net6.0\Logic.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\Microservices on ASP\ProfileApi\Logic\obj\Debug\net6.0\Logic.dll
+C:\Users\user\OneDrive\Desktop\Microservices on ASP\ProfileApi\Logic\obj\Debug\net6.0\refint\Logic.dll
+C:\Users\user\OneDrive\Desktop\Microservices on ASP\ProfileApi\Logic\obj\Debug\net6.0\Logic.pdb
+C:\Users\user\OneDrive\Desktop\Microservices on ASP\ProfileApi\Logic\obj\Debug\net6.0\ref\Logic.dll

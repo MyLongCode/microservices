@@ -1,0 +1,12 @@
+C:\Users\user\OneDrive\Desktop\Microservices on ASP\ProfileApi\ExampleCore\bin\Debug\net6.0\ExampleCore.deps.json
+C:\Users\user\OneDrive\Desktop\Microservices on ASP\ProfileApi\ExampleCore\bin\Debug\net6.0\ExampleCore.dll
+C:\Users\user\OneDrive\Desktop\Microservices on ASP\ProfileApi\ExampleCore\bin\Debug\net6.0\ExampleCore.pdb
+C:\Users\user\OneDrive\Desktop\Microservices on ASP\ProfileApi\ExampleCore\obj\Debug\net6.0\ExampleCore.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\Microservices on ASP\ProfileApi\ExampleCore\obj\Debug\net6.0\ExampleCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\Microservices on ASP\ProfileApi\ExampleCore\obj\Debug\net6.0\ExampleCore.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\Microservices on ASP\ProfileApi\ExampleCore\obj\Debug\net6.0\ExampleCore.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Microservices on ASP\ProfileApi\ExampleCore\obj\Debug\net6.0\ExampleCore.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Microservices on ASP\ProfileApi\ExampleCore\obj\Debug\net6.0\ExampleCore.dll
+C:\Users\user\OneDrive\Desktop\Microservices on ASP\ProfileApi\ExampleCore\obj\Debug\net6.0\refint\ExampleCore.dll
+C:\Users\user\OneDrive\Desktop\Microservices on ASP\ProfileApi\ExampleCore\obj\Debug\net6.0\ExampleCore.pdb
+C:\Users\user\OneDrive\Desktop\Microservices on ASP\ProfileApi\ExampleCore\obj\Debug\net6.0\ref\ExampleCore.dll
