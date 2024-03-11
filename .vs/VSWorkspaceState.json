@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Libs",
+    "\\PostApi",
+    "\\PostApi\\Domain",
+    "\\PostApi\\Domain\\Entities",
+    "\\ProfileApi",
+    "\\ProfileApi\\Api"
   ],
-  "SelectedNode": "\\PostApi.sln",
   "PreviewInSolutionExplorer": false
 }
