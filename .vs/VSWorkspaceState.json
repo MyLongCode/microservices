@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ProfileApi",
-    "\\ProfileApi\\Api"
+    "\\PostApi"
   ],
-  "SelectedNode": "\\ProfileApi\\Api\\Program.cs",
+  "SelectedNode": "\\PostApi\\PostApi.sln",
   "PreviewInSolutionExplorer": false
 }
