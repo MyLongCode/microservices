@@ -2,11 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\Libs",
+    "\\Libs\\ExampleCore",
     "\\PostApi",
     "\\PostApi\\Domain",
     "\\PostApi\\Domain\\Entities",
     "\\ProfileApi",
     "\\ProfileApi\\Api"
   ],
+  "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
