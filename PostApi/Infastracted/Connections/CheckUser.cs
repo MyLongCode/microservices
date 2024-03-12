@@ -10,16 +10,16 @@ namespace Infastracted.Connections;
 
 internal class CheckUser : ICheckUser
 {
-    private readonly IProfileConnectionServcie _profileConnectionServcie;
+    private readonly IProfileConnectionServcie _profileConnectionService;
 
-    public CheckUser(IProfileConnectionServcie profileConnectionServcie)
+    public CheckUser(IProfileConnectionServcie profileConnectionService)
     {
-        _profileConnectionServcie = profileConnectionServcie;
+        _profileConnectionService = profileConnectionService;
     }
     
     public async Task CheckUserExistAsync(Guid userId)
     {
-        await _profileConnectionServcie.CheckUserExistAsync(new CheckUserExistProfileApiRequest
+        await _profileConnectionService.CheckUserExistAsync(new CheckUserExistProfileApiRequest
         {
             UserId = userId
         });

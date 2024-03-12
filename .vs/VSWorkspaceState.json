@@ -2,13 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\Libs",
-    "\\Libs\\ExampleCore",
+    "\\Libs\\ProfileConnectionLib\\ConnectionServices",
+    "\\Libs\\ProfileConnectionLib\\ConnectionServices\\DtoModels",
+    "\\Libs\\ProfileConnectionLib\\ConnectionServices\\DtoModels\\CheckUserExists",
+    "\\Libs\\ProfileConnectionLib\\ConnectionServices\\Interfaces",
     "\\PostApi",
     "\\PostApi\\Domain",
     "\\PostApi\\Domain\\Entities",
-    "\\ProfileApi",
-    "\\ProfileApi\\Api"
+    "\\ProfileApi"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\PostApi\\Domain\\Entities\\Post.cs",
   "PreviewInSolutionExplorer": false
 }

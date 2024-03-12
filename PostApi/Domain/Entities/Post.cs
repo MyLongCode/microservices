@@ -5,9 +5,6 @@ namespace Domain.Entities;
 
 public partial record Post : BaseEntityDal<Guid>
 {
-    /// <summary>
-    /// 
-    /// </summary>
     public required Guid UserId { get; init; }
     
     public required string Title { get; init; }
