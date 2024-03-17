@@ -2,15 +2,16 @@
   "ExpandedNodes": [
     "",
     "\\Libs",
-    "\\Libs\\ProfileConnectionLib\\ConnectionServices",
-    "\\Libs\\ProfileConnectionLib\\ConnectionServices\\DtoModels",
-    "\\Libs\\ProfileConnectionLib\\ConnectionServices\\DtoModels\\CheckUserExists",
-    "\\Libs\\ProfileConnectionLib\\ConnectionServices\\Interfaces",
+    "\\Libs\\ExampleCore",
+    "\\Libs\\ExampleCore\\HttpLogic",
+    "\\Libs\\ExampleCore\\HttpLogic\\Services",
+    "\\Libs\\ExampleCore\\TraceIdLogic",
+    "\\Libs\\ExampleCore\\TraceLogic",
+    "\\Libs\\ExampleCore\\TraceLogic\\Interfaces",
     "\\PostApi",
-    "\\PostApi\\Domain",
-    "\\PostApi\\Domain\\Entities",
-    "\\ProfileApi"
+    "\\PostApi\\Infastracted",
+    "\\PostApi\\Infastracted\\Data"
   ],
-  "SelectedNode": "\\PostApi\\Domain\\Entities\\Post.cs",
+  "SelectedNode": "\\Libs\\ExampleCore\\HttpLogic\\Services\\HttpConnectionService.cs",
   "PreviewInSolutionExplorer": false
 }
