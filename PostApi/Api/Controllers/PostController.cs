@@ -5,23 +5,12 @@ using Services.Intefaces;
 
 namespace Api.Controllers;
 
-public record PostRequest
-{
-    public required Guid UserId { get; init; }
 
-    public required string Title { get; init; }
-
-    public required string Content { get; init; }
-}
 
 public record PostListResponse
 {
     public required PostResponse[] PostList { get; init; }
 }
-
-/// <summary>
-/// 
-/// </summary>
 
 
 public record UserInfoResponse

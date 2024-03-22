@@ -5,13 +5,13 @@
     "\\Libs\\ExampleCore",
     "\\Libs\\ExampleCore\\HttpLogic",
     "\\Libs\\ExampleCore\\HttpLogic\\Services",
-    "\\Libs\\ExampleCore\\TraceIdLogic",
     "\\Libs\\ExampleCore\\TraceLogic",
     "\\Libs\\ExampleCore\\TraceLogic\\Interfaces",
-    "\\PostApi",
-    "\\PostApi\\Infastracted",
-    "\\PostApi\\Infastracted\\Data"
+    "\\ProfileApi",
+    "\\ProfileApi\\Api",
+    "\\ProfileApi\\Api\\Controllers",
+    "\\ProfileApi\\Api\\Controllers\\Role"
   ],
-  "SelectedNode": "\\Libs\\ExampleCore\\HttpLogic\\Services\\HttpConnectionService.cs",
+  "SelectedNode": "\\Libs\\ExampleCore\\HttpLogic\\Services\\HttpRequestService.cs",
   "PreviewInSolutionExplorer": false
 }
