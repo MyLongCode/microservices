@@ -18,11 +18,6 @@ public class UserController : ControllerBase
     {
         _userLogicManager = userLogicManager;
     }
-    
-    /// <summary>
-    /// запроса персональной информации о пользователи
-    /// выполняется самим пользователем
-    /// </summary>
     [ProducesResponseType(typeof(UserInfoResponse), 200)]
     public async Task<IActionResult> GetInfoAsync([FromQuery] Guid userId)
     {
@@ -42,10 +37,6 @@ public class UserController : ControllerBase
     [ProducesResponseType(typeof(CreateUserResponse), 200)]
     public async Task<ActionResult> CreateUserAsync([FromBody] CreateUserRequest dto)
     {
-        // не должно быть в контроллере
-        // 1 - валидации - либо Attribute, либо слой отдельный
-        // 2 - бизнес логики - Logic (проверка доступов)
-        // 3 - проверка авторизации - Attribute
         var res = await _userLogicManager.CreateUserAsync(new UserLogic
         {
             Name = dto.Name,
