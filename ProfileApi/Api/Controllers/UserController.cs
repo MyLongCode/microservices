@@ -18,6 +18,7 @@ public class UserController : ControllerBase
     {
         _userLogicManager = userLogicManager;
     }
+    [HttpGet]
     [ProducesResponseType(typeof(UserInfoResponse), 200)]
     public async Task<IActionResult> GetInfoAsync([FromQuery] Guid userId)
     {
@@ -25,7 +26,7 @@ public class UserController : ControllerBase
         return Ok(new UserInfoResponse
         {
             Id = default,
-            Name = null,
+            Name = userName,
             Login = null,
             Phone = null,
             Status = null,
