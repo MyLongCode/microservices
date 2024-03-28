@@ -1,15 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Libs",
-    "\\PostApi",
-    "\\PostApi\\Api",
-    "\\PostApi\\Api\\Controllers",
     "\\ProfileApi",
     "\\ProfileApi\\Api",
-    "\\ProfileApi\\Api\\Controllers",
-    "\\ProfileApi\\Api\\Controllers\\Role"
+    "\\ProfileApi\\DAL",
+    "\\ProfileApi\\DAL\\EF",
+    "\\ProfileApi\\DAL\\Roles",
+    "\\ProfileApi\\DAL\\Roles\\Models",
+    "\\ProfileApi\\DAL\\Users",
+    "\\ProfileApi\\DAL\\Users\\Models",
+    "\\ProfileApi\\Logic"
   ],
-  "SelectedNode": "\\ProfileApi\\Api\\Controllers\\UserController.cs",
   "PreviewInSolutionExplorer": false
 }
