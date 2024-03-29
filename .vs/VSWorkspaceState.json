@@ -1,15 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Libs",
+    "\\Libs\\ProfileConnectionLib",
     "\\ProfileApi",
-    "\\ProfileApi\\Api",
     "\\ProfileApi\\DAL",
-    "\\ProfileApi\\DAL\\EF",
     "\\ProfileApi\\DAL\\Roles",
     "\\ProfileApi\\DAL\\Roles\\Models",
     "\\ProfileApi\\DAL\\Users",
     "\\ProfileApi\\DAL\\Users\\Models",
     "\\ProfileApi\\Logic"
   ],
+  "SelectedNode": "\\Libs\\ExampleCore\\ExampleCore.csproj",
   "PreviewInSolutionExplorer": false
 }
