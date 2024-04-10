@@ -1,16 +1,14 @@
 {
   "ExpandedNodes": [
-    "",
     "\\Libs",
-    "\\Libs\\ProfileConnectionLib",
+    "\\Libs\\ExampleCore",
+    "\\Libs\\ExampleCore\\TraceIdLogic",
+    "\\Libs\\ExampleCore\\TraceLogic",
+    "\\PostApi",
+    "\\PostApi\\Domain",
+    "\\PostApi\\Domain\\Entities",
     "\\ProfileApi",
-    "\\ProfileApi\\DAL",
-    "\\ProfileApi\\DAL\\Roles",
-    "\\ProfileApi\\DAL\\Roles\\Models",
-    "\\ProfileApi\\DAL\\Users",
-    "\\ProfileApi\\DAL\\Users\\Models",
     "\\ProfileApi\\Logic"
   ],
-  "SelectedNode": "\\Libs\\ExampleCore\\ExampleCore.csproj",
   "PreviewInSolutionExplorer": false
 }

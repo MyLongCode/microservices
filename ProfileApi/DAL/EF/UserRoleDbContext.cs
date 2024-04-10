@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using ProfileDal.Roles.Models;
 using ProfileDal.Users.Models;
-namespace ProfileDal.EF;
+namespace ProfileDal.EF
 {
     public class UserRoleDbContext : IdentityDbContext
     {
