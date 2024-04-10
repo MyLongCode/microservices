@@ -2,7 +2,7 @@
 
 namespace ExampleCore.HttpLogic.Services;
 
-public record struct HttpConnectionData()
+public record HttpConnectionData()
 {
     public TimeSpan? Timeout { get; set; } = null;
     
