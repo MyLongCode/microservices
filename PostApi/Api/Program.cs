@@ -10,6 +10,11 @@ builder.Services.TryAddTraceId();
 builder.Services.TryAddLogic();
 builder.Services.TryAddDal();
 
+builder.Services.AddSingleton<ObjectPool<IConnection>>(serviceProvider =>
+{
+    return new DefaultObjectPool<IConnection>(new RabbitConnectionPool("localhost"), Environment.ProcessorCount * 2);
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

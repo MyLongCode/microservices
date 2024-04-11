@@ -13,7 +13,10 @@ builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddControllers();
-
+builder.Services.AddSingleton<ObjectPool<IConnection>>(serviceProvider =>
+{
+    return new DefaultObjectPool<IConnection>(new RabbitConnectionPool("localhost"), Environment.ProcessorCount * 2);
+});
 builder.Services.TryAddLogic();
 builder.Services.TryAddDal();
 
